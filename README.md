@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Django Rest Framework](https://github.com/bekowashere/django-ecommerce)
 
-- 🌱 I’m currently learning **Data Scientist, Statistic and DRF**
+- 🌱 I’m currently learning **Data Scientist, Statistics and DRF**
 
 - 👯 I’m looking to collaborate on [Django-Ecommerce](https://github.com/bekowashere/django-ecommerce)
 
@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/berkee.karatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkee.karatas" height="30" width="40" /></a>
+<a href="https://fb.com/biztribundensevdik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biztribundensevdik" height="30" width="40" /></a>
 <a href="https://twitter.com/0x9martineden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x9martineden" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uberke-karatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uberke-karatas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21916061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21916061" height="30" width="40" /></a>
@@ -29,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekowashere&show_icons=true&locale=en" alt="bekowashere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekowashere&" alt="bekowashere" /></p>
-
