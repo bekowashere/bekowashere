@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekowashere&show_icons=true&locale=en" alt="bekowashere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekowashere&" alt="bekowashere" /></p>
-
-![snake gif](https://github.com/bekowashere/bekowashere/blob/output/github-contribution-grid-snake.gif)
