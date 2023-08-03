@@ -29,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekowashere&show_icons=true&locale=en&layout=compact" alt="bekowashere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekowashere&show_icons=true&locale=en" alt="bekowashere" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekowashere&" alt="bekowashere" /></p>
