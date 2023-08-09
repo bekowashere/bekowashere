@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Django-Ecommerce](https://github.com/bekowashere/django-ecommerce)
 
-- 🤝 I’m looking for help on the frontend side with [automotodata](https://github.com/bekowashere/automotodata.com)
+- 🤝 I’m looking for help on the frontend side with [automotodata-v1](https://github.com/bekowashere/automotodata-v1)
 
 - 💬 Ask me about **Python, Django and Django Rest Framework**
 
