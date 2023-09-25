@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Berke Karatas</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h1 align="center">I'm Berke Karatas</h1>
 
-- 🔭 I’m currently working on [Django Rest Framework](https://github.com/bekowashere/django-ecommerce)
 
-- 🌱 I’m currently learning **Data Scientist, Statistics and DRF**
+- [Django Rest Framework](https://github.com/bekowashere/django-ecommerce)
 
-- 👯 I’m looking to collaborate on [Django-Ecommerce](https://github.com/bekowashere/django-ecommerce)
+- [Django-Ecommerce](https://github.com/bekowashere/django-ecommerce)
 
-- 🤝 I’m looking for help on the frontend side with [automotodata-v1](https://github.com/bekowashere/automotodata-v1)
+- [automotodata-v1](https://github.com/bekowashere/automotodata-v1)
 
 - 💬 Ask me about **Python, Django and Django Rest Framework**
 
@@ -16,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uberke-karatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uberke-karatas" height="30" width="40" /></a>
-<a href="https://twitter.com/0x9martineden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x9martineden" height="30" width="40" /></a>
 <a href="https://instagram.com/berkee.karatas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkee.karatas" height="30" width="40" /></a>
 <a href="https://fb.com/biztribundensevdik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biztribundensevdik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21916061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21916061" height="30" width="40" /></a>
