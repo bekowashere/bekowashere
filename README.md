@@ -1,12 +1,3 @@
-<h1 align="center">I'm Berke Karatas</h1>
-
-
-- [Django Rest Framework](https://github.com/bekowashere/django-ecommerce)
-
-- [Django-Ecommerce](https://github.com/bekowashere/django-ecommerce)
-
-- [automotodata-v1](https://github.com/bekowashere/automotodata-v1)
-
 - 💬 Ask me about **Python, Django and Django Rest Framework**
 
 - 📫 How to reach me **uberke.karatas@gmail.com**
