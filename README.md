@@ -1,5 +1,5 @@
-Founder of [Esthenbul](https://esthenbul.com/en)
+Backend engineer specializing in **Django** and **Django Rest Framework (DRF)** — building REST APIs is what I do best. *Long live DRF!* 🙌
 
-While I've worked with various programming languages, frameworks, and architectures, my true expertise lies in backend development. I'm all about **Django** and **Django Rest Framework (DRF)**—building Rest APIs is my thing! (*Long live DRF!* 🙌)
+Lately I've been deep in **digital trust and identity infrastructure**: issuer-holder-verifier architectures, X.509 trust chains, Verifiable Credentials, and eIDAS 2.0 / EUDI Wallet-style trust models.
 
 Feel free to explore my profile to learn more about me. I'm coding however I feel like, so enjoy!
